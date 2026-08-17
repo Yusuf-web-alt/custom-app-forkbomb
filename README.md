@@ -1,1 +1,1 @@
-put your custom app into _app.bat_
+put your custom app into app.bat
